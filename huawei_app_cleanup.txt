@@ -1,0 +1,66 @@
+# Huawei apps
+
+pm uninstall -k --user 0 com.huawei.appmarket
+pm uninstall -k --user 0 com.huawei.android.chr
+pm uninstall -k --user 0 com.huawei.android.hsf
+pm uninstall -k --user 0 com.huawei.android.hwpay
+pm uninstall -k --user 0 com.huawei.android.karaoke
+pm uninstall -k --user 0 com.huawei.android.mirrorshare
+pm uninstall -k --user 0 com.huawei.search
+pm uninstall -k --user 0 com.huawei.android.tips
+pm uninstall -k --user 0 com.huawei.arengine.service
+pm uninstall -k --user 0 com.huawei.contactscamcard
+pm uninstall -k --user 0 com.huawei.desktop.explorer
+pm uninstall -k --user 0 com.huawei.fido.uafclient
+pm uninstall -k --user 0 com.huawei.gameassistant
+pm uninstall -k --user 0 com.huawei.geofence
+pm uninstall -k --user 0 com.huawei.hdiw
+pm uninstall -k --user 0 com.huawei.hifolder
+pm uninstall -k --user 0 com.huawei.hwdetectrepair
+pm uninstall -k --user 0 com.huawei.livewallpaper.paradise
+pm uninstall -k --user 0 com.huawei.parentcontrol
+pm uninstall -k --user 0 com.huawei.phoneservice
+pm uninstall -k --user 0 com.huawei.mirror
+pm uninstall -k --user 0 com.huawei.vassistant
+pm uninstall -k --user 0 com.huawei.wallet
+pm uninstall -k --user 0 com.huawei.watch.sync
+pm uninstall -k --user 0 com.iflytek.speechsuite
+
+
+# other apps
+
+pm uninstall -k --user 0 com.booking
+pm uninstall -k --user 0 com.facebook.appmanager
+pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.facebook.orca
+pm uninstall -k --user 0 com.facebook.katana
+pm uninstall -k --user 0 com.facebook.services
+pm uninstall -k --user 0 com.instagram.android
+pm uninstall -k --user 0 com.netflix.mediaclient
+pm uninstall -k --user 0 com.netflix.partner.activation
+pm uninstall -k --user 0 com.microsoft.translator
+pm uninstall -k --user 0 com.snapchat.android
+pm uninstall -k --user 0 com.swiftkey.swiftkeyconfigurator
+pm uninstall -k --user 0 com.touchtype.swiftkey
+
+
+# google
+pm uninstall -k --user 0 com.google.android.apps.books
+pm uninstall -k --user 0 com.google.android.apps.cloudprint
+pm uninstall -k --user 0 com.google.android.apps.currents
+pm uninstall -k --user 0 com.google.android.apps.fitness
+pm uninstall -k --user 0 com.google.android.apps.photos
+pm uninstall -k --user 0 com.google.android.apps.plus
+pm uninstall -k --user 0 com.google.android.apps.restore
+pm uninstall -k --user 0 com.google.android.apps.tachyon
+pm uninstall -k --user 0 com.google.android.apps.wellbeing
+pm uninstall -k --user 0 com.google.android.feedback
+pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+pm uninstall -k --user 0 com.google.ar.core
+pm uninstall -k --user 0 com.google.marvin.talkback
+pm uninstall -k --user 0 com.google.android.onetimeinitializer
+pm uninstall -k --user 0 com.google.android.play.games
+pm uninstall -k --user 0 com.google.android.setupwizard
+pm uninstall -k --user 0 com.google.android.talk
+pm uninstall -k --user 0 com.google.android.videos
+pm uninstall -k --user 0 com.google.tango.measure
